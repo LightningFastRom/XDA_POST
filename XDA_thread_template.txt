@@ -1,0 +1,215 @@
+[center][img]https://img.xda-cdn.com/y-LtXHGCDBH0KxFw9MxWAPF3guk=/http%3A%2F%2Fi.imgur.com%2F2okPze5.png[/img][/center]
+
+LineageOS is a free, community built, aftermarket firmware distribution of Android 9 (Pie), which is designed to increase performance and reliability over stock Android for your device.
+
+[code]
+#include <std_disclaimer.h>
+
+/*
+* Your warranty is now void.
+*
+* We are not responsible for bricked devices, dead SD cards,
+* thermonuclear war, or you getting fired because the alarm app failed. Please
+* do some research if you have any concerns about features included in this ROM
+* before flashing it! YOU are choosing to make these modifications, and if
+* you point the finger at us for messing up your device, we will laugh at you.
+*
+*/
+[/code]
+
+LineageOS is based on the Android Open Source Project with extra contributions from many people within the Android community. It can be used without any need to have any Google application installed. You will need to provide your own Google Applications package (gapps). LineageOS does still include various hardware-specific code, which is also slowly being open-sourced anyway.
+
+Base source code is available in the LineageOS Github repo. And if you would like to contribute to the project, please visit our Gerrit Code Review.
+
+
+[img]https://avatars2.githubusercontent.com/u/47895955?s=200&v=4[/img]
+
+[b][u]About Lightning Fast Rom:[/u][/b]
+[b]Lighting Fast Rom Is Android based rom for older devices based on LineageOS aims to*﻿make Android classy by deleting all the useless﻿,﻿ ugly﻿ and outdated stuff the LineageOS base rom, So feel Tweak, Move, Add, Remove, Redesign & Forward port to the Lightning Fast Rom source and post the links to those repo for mw to check out and cherry pick your code from.
+
+[b][u]Disclaimer:[/u][/b]
+﻿LightningFastRom (﻿LightningFastRom Android Distribution) members or anyone else on this website is not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed. Please do some research if you have any concerns about features included in the products you find here before flashing it! YOU are choosing to make these modifications, and if you point the finger at us for messing up your device, we will laugh at you. Your warranty will be void if you tamper with any part of your device / software.
+
+[B][U]Features[/U][/B]
+==========================================================================================
+[U]This List also apply to Pie but with a grain of salt as every listed here may not be present or may be incomplete ﻿in Pie.
+[/U]
+[HIDE][code]
+What's Been Tweeks
+-------------------------
+1. Everything so far.
+
+What's Need to Tweeks
+-------------------------
+1. Everything else.
+2. Cleander still being redone?
+
+What's Been Added
+-------------------------
+ 1. Darkmode to all the apps thanks to SuperiorOS. 
+       ﻿- ﻿Messagings.
+       ﻿- Gallery2.
+       ﻿- Contacts.
+       ﻿- Dialer.
+       ﻿- Cleander still being redone?
+       ﻿- Calculator (Always Darkmode).
+       ﻿- DeskClock (Always Darkmode).
+
+ 3. Pixel style to all the apps thanks https://github.com/allstargaurav/The-Adaptive-Project & https://github.com/moctodot/adaptive-icons
+       ﻿- Messagings.
+       ﻿- Gallery2.
+       ﻿- Contacts.
+       ﻿- Dialer.
+       ﻿- Calendar IconOnly?
+       ﻿- Calculator.
+       ﻿- DeskClock.
+       ﻿- Setting (Icon background change to what accent color you pick).
+ 
+
+
+ 4. Pixel look add to Setting search bar.
+
+ 5. Native Screen recording, But it does not work yet.
+
+ 5. Auto darkmode.
+ 
+ 6. Samsung style lockscreen clock theme
+ 
+ 6. trebuchet know show the weather be default on the first page instead where the QSB normaly appers I can live with Thats. 
+ 
+ 7. bromite-webview with adblock support.
+ 
+
+What's Been Removed
+-------------------------
+1. LineageOS Statistics there onto us.
+2. LineageOS Networks Traffic not very useful at all, apps & widget are better.
+3. Volume button control media playback.
+4. Audio Visularon on LockScreen & in Eleven (Yuck 🤮🤮🤮🤮).
+5. Lineage Weather not useful apps & widget are better.
+6. Lockscreen Media Art (Yuck 🤮🤮🤮🤮).
+
+What's Been Redesign
+-------------------------
+1. Battery Percentage (Simple toggle like iOS it's either On or Off ).
+2. SQ Panel with blur background to reduse distractions and a bunsh of thening form Revengos.
+2. UI Switches have been themed to look like OOS(OxygenOS) thanks to InFusionX-OS along with fingurepint animation also all the other animation have cut in half.
+
+
+What's Been Shuffled
+-------------------------
+1. Some of the Setting in Setting & LineageParts
+[/code][/HIDE]
+
+[b][u]Known issues:[/u][/b]
+[list]
+[*]Calendar UI not perfect.
+[*]Screen recording works, But Native Screen recording does not work yet.
+[*]MTP.
+[*]Back camera preview is dark and probably doesn't save photos and videos
+[*]Wi-Fi display.
+[*]Magisk doesn't work, you can use this ROM just unrooted.
+[*]Netflix and other apps that want a certified device and Safetynet passed don't work and you can't find them on Play Store for these reasons.
+[*]Offline Charging.
+[*]IR Blaster on matissewifi & milletltetmo have not been fixed yet.
+
+[/list]
+
+[b][u]Instructions:[/u][/b]
+[list]
+[*]Download the latest build and gapps
+[*]Boot to recovery
+[*]Flash the latest build
+[*]Boot to recovery again
+[*]Flash gapps
+[*]Reboot
+[/list]
+
+[b][u]Downloads:[/u][/b]
+[B][U]Unofficial build (04.12.2020):[/U][/B]
+[B]Samsung Galaxy Tab 4 10.1(matisse)[/B]
+[HIDE][list]
+[*]matissewifi(SM-T530/SM-T530NU﻿)[URL]https://www.androidfilehost.com/?w=files&flid=296283[/URL]
+[*]matisselte(SM-T535)[URL]https://www.androidfilehost.com/?w=files&flid=296284[/URL]
+[*]matisse3g(SM-T531)[URL]https://www.androidfilehost.com/?w=files&flid=296285[/URL]
+[*]matisse3g(SM-T531)[URL]https://www.androidfilehost.com/?w=files&flid=296285[/URL]
+[*]Recovery:[URL] https://forum.xda-developers.com/tab...illet-t4019831[/URL]
+[/list][/HIDE]
+[b]Samsung Galaxy Tab 4 8.0(millet)[/b]
+[HIDE][list]
+[*]milletwifi(SM-T330/SM-T330NU)[URL]https://www.androidfilehost.com/?w=files&flid=296287[/URL]
+[*]milletlte(SM-T335)[URL]https://www.androidfilehost.com/?w=files&flid=296288[/URL]
+[*]milletltetmo(SM-T337TMO)[URL]https://www.androidfilehost.com/?w=files&flid=305727[/URL]
+[*]millet3g(SM-T331)[URL]https://www.androidfilehost.com/?w=files&flid=296289[/URL]
+[/list][/HIDE]
+[list]
+[*]Recovery: Unofficial TWRP [url]https://forum.xda-developers.com/tab-4/development/recovery-twrp-recovery-matisse-millet-t4019831[/url]
+[*]Google Apps: Unofficial OpenGapps
+[/list]
+
+[b][u]Source code:[/u][/b]
+[b]Samsung Galaxy Tab 4 10.1 (matisse)[/b]
+[HIDE][list]
+[*]matisse common device tree: [url]https://github.com/S3NEO/android_device_samsung_matisse-common[/url]
+[*]matissewifi Device tree: [url]https://github.com/S3NEO/android_device_samsung_matissewifi[/url]
+[*]matisselte Device tree: [url]https://github.com/S3NEO/android_device_samsung_matisselte[/url]
+[*]matisse3g Device tree: [url]https://github.com/S3NEO/android_device_samsung_matisse3g[/url]
+[*]matisse common device vendor: [url]https://github.com/S3NEO/android_vendor_samsung_matisse-common[/url]
+[*]matissewifi Device vendor: [url]https://github.com/S3NEO/android_vendor_samsung_matissewifi[/url]
+[*]matisselte Device vendor: [url]https://github.com/S3NEO/android_vendor_samsung_matisselte[/url]
+[*]matisse3g Device vendor: [url]https://github.com/S3NEO/android_vendor_samsung_matisse3g[/url]
+[/list][/HIDE]
+[b]Samsung Galaxy Tab 4 8.0 (millet)[/b]
+[HIDE][list]
+[*]milletwifi Device tree: [url]https://github.com/S3NEO/android_device_samsung_milletwifi[/url]
+[*]milletlte Device tree: [url]https://github.com/S3NEO/android_device_samsung_milletlte[/url]
+[*]milletltetmo Device tree: [url]https://github.com/S3NEO/android_device_samsung_milletltetmo[/url]
+[*]millet3g Device tree: [url]https://github.com/S3NEO/android_device_samsung_millet3g[/url]
+[*]millet common device tree: [url]https://github.com/S3NEO/android_device_samsung_millet-common[/url]
+[*]millet common device vendor: [url]https://github.com/S3NEO/android_vendor_samsung_millet-common[/url]
+[*]milletwifi Device vendor: [url]https://github.com/S3NEO/android_vendor_samsung_milletwifi[/url]
+[*]milletlte Device vendor: [url]https://github.com/S3NEO/android_vendor_samsung_milletlte[/url]
+[*]milletltetmo Device vendor: [url]https://github.com/S3NEO/android_vendor_samsung_milletltetmo[/url]
+[*]millet3g Device vendor: [url]https://github.com/S3NEO/android_vendor_samsung_millet3g[/url][/HIDE]
+[/list]
+[b]Common[/b]
+[HIDE][list]
+[*]Common device board: [url]https://github.com/S3NEO/android_device_samsung_msm8226-common[/url]
+[*]Common board vendor: [url]https://github.com/S3NEO/android_vendor_samsung_msm8226-common[/url]
+[*]Common kernel: [url]https://github.com/S3NEO/android_kernel_samsung_msm8226[/url]
+[/list][/HIDE]
+[b]Rom Source[/b]
+[list]
+[*][url]https://github.com/LightningFastRom[/url]
+[/list]
+
+[U][B]Additional Resource[/B][/U]
+[HIDE]
+[B]Additional Device Support Ban Found Here[/B]
+[url=https://t.me/Galaxy_Tab_4]Galaxy_Tab_4[/url]
+
+[B]Nightly Build can be found here[/B]
+[url=https://t.me/LightFastRoms]LightFastRoms[/url]
+
+[B]Additional Rom Support Ban Found Here[/B]
+[url=https://t.me/LightFastRoms]LightningFastRom[/url]
+
+[B]For Any Who Wants Learn About Android Development[/B]
+[url=https://t.me/LightFastRoms]alaskalinuxuser_romdevelopment
+[/HIDE]
+
+
+[b][u][SIZE="4"][NOPARSE]XDA:Information[/NOPARSE][/SIZE][/u][/b]
+[SIZE=3][b]LightningFastRom-17.1 (Q/10) for Samsung Galaxy Tab 4 10.1 (matisse) & 8.0 (millet), ROM for the Samsung Galaxy Tab 4 10.1 (matisse) & 8.0 (millet)1[/b][/SIZE]
+
+[b][u]Contributors[/u][/b]
+DJABHipHop,
+[b]ROM OS Version:[/b] Android 10
+[b]ROM Kernel:[/b] Linux 3.x
+[b]ROM Firmware Required:[/b] Stock LP
+
+[b][u]Version Information[/u][/b]
+[b]Status:[/b] Stable
+
+[b]Created[/b] 2019-09-23
+[b]Last Updated[/b] 2020-12-04
